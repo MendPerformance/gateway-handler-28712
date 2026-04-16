@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: NodeGoat
-  namespace: mend-crest-data
+  name: gateway-handler-28712
+  namespace: MendPerformance
   annotations:
-    github.com/project-slug: mend-crest-data/NodeGoat
+    github.com/project-slug: MendPerformance/gateway-handler-28712
 spec:
   type: service
   lifecycle: unknown
